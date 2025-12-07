@@ -1,0 +1,22 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# Ignore large model files over GitHub's size limit
+ncf_model_quick.h5
+
+# Ignore virtual environment folders
+venv/
+env/
+condaenv/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
