@@ -46,7 +46,8 @@ movie-recommendation-system/
 
 
 ##  How to Run the Project
-
+##  Sample User IDs: Index([ 548,  626,  847,  997, 1401, 1652, 1748, 1920, 1977, 2003, 2165, 2177,
+       2403, 2775, 2982, 3150, 3394, 3503, 3623, 3624]
 ###  Clone the Repository
 ```bash
 git clone https://github.com/Paras2602/movie-recommendation-system.git
